@@ -1,4 +1,4 @@
-package ipset
+package configipset
 
 // Methods
 // addEntry(s: entry) → Nothing

@@ -1,4 +1,4 @@
-package direct
+package configdirect
 
 // Methods
 // addChain(s: ipv, s: table, s: chain) → Nothing

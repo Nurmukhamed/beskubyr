@@ -1,4 +1,4 @@
-package helper
+package confighelper
 
 // Interface for permanent helper configuration, see also firewalld.helper(5).
 // Methods

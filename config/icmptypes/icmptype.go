@@ -1,4 +1,4 @@
-package icmptypes
+package configicmptypes
 
 // Interface for permanent icmp type configuration, see also firewalld.icmptype(5).
 // Methods

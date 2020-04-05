@@ -1,4 +1,4 @@
-package policies
+package configpolicies
 
 // Methods
 // addLockdownWhitelistCommand(s: command) → Nothing

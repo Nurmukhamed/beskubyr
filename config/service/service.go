@@ -1,4 +1,4 @@
-package service
+package configservice
 
 // Interface for permanent service configuration, see also firewalld.service(5).
 // Methods
